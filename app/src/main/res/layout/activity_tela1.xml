@@ -20,4 +20,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="253dp" />
+
+    <com.sadestorm.pdm.Onboarding
+        android:id="@+id/onboarding"
+        android:layout_width="239dp"
+        android:layout_height="518dp"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="63dp" />
 </android.support.constraint.ConstraintLayout>
